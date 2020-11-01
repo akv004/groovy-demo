@@ -1,9 +1,8 @@
-package sorting;
+package collections.sorting;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 public class SortingMapDemo {
