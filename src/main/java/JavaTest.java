@@ -11,7 +11,5 @@ public class JavaTest {
         System.out.println(list);
         IntStream.range(1,10).skip(5).forEach(System.out::print);
 
-
-
     }
 }
