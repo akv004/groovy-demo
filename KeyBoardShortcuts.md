@@ -13,4 +13,5 @@ cmd + shift + backarrow	| go to last code cursor location
 cmd + backspace	| delete current line / all lines of current selection	
 shift + Fn + F6	| rename	
 F2	| Go to next warning	
-ctrl-opt-o	| Organize Imports	
+ctrl-opt-o	| Organize Imports
+command + 9 |  show git difference log
