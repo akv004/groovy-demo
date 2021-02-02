@@ -15,3 +15,4 @@ shift + Fn + F6	| rename
 F2	| Go to next warning	
 ctrl-opt-o	| Organize Imports
 command + 9 |  show git difference log
+comand shift v | history of command 
